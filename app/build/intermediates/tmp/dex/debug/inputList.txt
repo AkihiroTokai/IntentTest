@@ -1,0 +1,2 @@
+C:\Users\OWNER\AndroidStudioProjects\IntentTest\app\build\intermediates\classes\debug
+C:\Users\OWNER\AndroidStudioProjects\IntentTest\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-99efeaeec99508f7ae5d1e136a982b208e1726e1.jar
